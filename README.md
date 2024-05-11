@@ -20,8 +20,8 @@ I used [ yet to describe tools, IDEs, or environments] to develop the software. 
 
 During the development process, I found the following websites to be particularly helpful:
 
-- [Web Site Name](https://www.youtube.com/@yacklyon5993)
-- [Web Site Name](https://www.w3schools.com/cpp/)
+- [Youtube Channel](https://www.youtube.com/@yacklyon5993)
+- [W3schools](https://www.w3schools.com/cpp/)
 
 These resources provided valuable insights, tutorials, and documentation that aided me in understanding and implementing various aspects of the C++ language.
 
